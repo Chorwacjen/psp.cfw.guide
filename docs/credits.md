@@ -1,30 +1,10 @@
----
-title: "Credits"
-description: The writers and contributors to psp.cfw.guide.
----
+# Credits
 
-<div>
-  <div class="credits">
-    <div class="user">
-      <img src="https://github.com/emiyl.png">
-    </div>
-    <div class="user">
-      <h3>emiyl</h3>
-      <p>Emma</p>
-      <a class="social-icon" href="https://twitter.com/emiyl0" target="_blank">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a class="social-icon" href="https://github.com/emiyl" target="_blank">
-        <i class="fab fa-github"></i>
-      </a>
-    </div>
-  </div>
-</div>
+This is the credits for those who have helped out with the guide website, homebrew, and other things.
 
-## Credits
+If you like what they have done, consider donating (if they have a donation link).
 
-<pre>
-    + emiyl
-</pre>
+- [emiyl](https://emiyl.com/paypal):
+- [JoseAaronLopezGarcia](https://github.com/PSP-Archive/ARK-4): Creator of ARK-4
 
-If I forgot you here, contact me and I'll add your name.
+You can contribute to our guide too by simply [sending in a pull request](https://github.com/cfw-guide/psp.cfw.guide)!

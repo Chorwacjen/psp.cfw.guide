@@ -1,7 +1,4 @@
----
-title: "FAQ"
-description: Answers to commonly asked questions about PSP.
----
+# FAQ
 
 ## What is CFW? What does it do?
 CFW means Custom Firmware. It can unlock the max potential of the system at hand. CFW is often a necessary step for older consoles because no official support is being made for them therefore the community has to pick up the torch to continue supporting the system. It can unlock various abilities such as emulating other systems, backing up and restoring important system files, allowing you to play games from your memory card, etc.
@@ -23,10 +20,6 @@ Nothing much. You can't go wrong with either of them. Both are stable and mature
 
 ## What about ARK-4 CFW? Is it better than LME and PRO-C2?
 Yes, it is indeed better. It has useful safety features against soft bricks, better compatibility with PSP games, custom launcher instead of the PSP menu (arguably better looking launcher), support for more models to get permanent CFW using the new CIPL Flasher, etc. This is clearly the final hurrah for the PSP and will be the way forward in the future. 
-
-But for now, it needs to mature and be more stable. It is still very new and has a lot of features incoming so it will be required to frequently update. That means new bugs and glitches that will likely mess with your PSP. When it is stable enough, we will make a seperate guide for ARK-4.
-
-And remember that LME and PRO-C2 has been on the scene for more than 10 years and can do everything an average person needs when hacking the PSP.
 
 ## Help! I pressed the Select button on the PSP Menu and there is this weird screen! 
 That, my friend, is the VSH menu. It is useful for debugging the PSP. It's best not to mess with it if you dont know what you're doing. You can simply press Select again to make it go away.
@@ -51,6 +44,3 @@ The most common causes of bricking are:
 - Purposefully shutting down the PSP during the installation.
 
 TLDR: Just don't be stupid. Follow the instructions properly and your PSP will be safe.
-
-## How do I check if CFW is running?
-Simply go to `Settings > System Information` and check the version. If it just says `6.61` or whatever firmware version you're on, then CFW is not running. If it says `6.61 PRO-C2` or `6.61 (insert CFW name here)`, that means CFW is running.

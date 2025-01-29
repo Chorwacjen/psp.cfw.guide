@@ -1,24 +1,21 @@
 ## psp.cfw.guide
 
-Modding guide for the PSP.
+The complete guide to modding your PSP.
 
 https://psp.emiyl.com/
 
 ## Running the site locally
 
 This requires the following installed to your system:
-- [Node.js v12+](https://nodejs.org/)
-- [Yarn v1 classic](https://classic.yarnpkg.com/en/) (npm install --global yarn)
+- node.js, v20 or later
+- its respective npm
 
 To test the website locally, simply run the following commands:
 ```
-git clone https://github.com/psp.cfw.guide.git --recursive
-cd psp.cfw.guide
-yarn install
-yarn dev
+npm install
 ```
-to build the Markdown files into HTML and start a testing webserver on http://127.0.0.1:8080.
-
-## Building the site
-
-Follow the steps above, but run `yarn build` instead at the final step. Once complete, the output will be stored at `/docs/.vuepress/dist`.
+to install all packages required by the website (VuePress v2 and plugins), then
+```
+npm run docs:dev
+```
+to build the Markdown files into HTML and start a testing webserver on http://127.0.0.1:5173.
